@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tE99/X9aLuk2koYAmA9kJQ3/vORz77DFlyzTmuyl667DdO4S/Jqg7bnDG416Su1R5sN9AolPHaV8+Nvupz4ctA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jason\\source\\repos\\BreweriesSearch\\BreweriesSearch\\BreweriesSearch.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jason\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
